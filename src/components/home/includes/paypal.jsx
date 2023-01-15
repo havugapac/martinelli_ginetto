@@ -13,10 +13,10 @@ export default function Paypal(props) {
           return actions.order.create({
             purchase_units: [
               {
-                description: "test",
+                description: "Martinelli Ginetto payment",
                 amount: {
                   currency_code: "USD",
-                  value: props.price
+                  value: total
                 }
               }
             ]
