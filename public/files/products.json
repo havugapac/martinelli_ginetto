@@ -1,0 +1,296 @@
+[
+    {
+    "data": {
+        "products": {
+            "items": [
+                {
+                    "id": 9,
+                    "name": "Pillowt",
+                    "sku": "Pillowt",
+                    "short_description": {
+                        "html": "<p>wgfhcwd gdhfwg edcgfdcw</p>"
+                    },
+                    "description": {
+                        "html": ""
+                    },
+                    "media_gallery": [
+                        {
+                            "url": "http://martinelli.ginetto.com/media/catalog/product/cache/6dee19cd880ff473cb1c3f34b3f1cafc/p/i/pillow2.png",
+                            "label": null
+                        }
+                    ],
+                    "price_range": {
+                        "minimum_price": {
+                            "regular_price": {
+                                "value": 200,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 200,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        },
+                        "maximum_price": {
+                            "regular_price": {
+                                "value": 200,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 200,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "frurnaccessory",
+                    "sku": "frurnaccessory",
+                    "short_description": {
+                        "html": "<p>sgfgned hghfde e3grwhfgje3</p>"
+                    },
+                    "description": {
+                        "html": ""
+                    },
+                    "media_gallery": [
+                        {
+                            "url": "http://martinelli.ginetto.com/media/catalog/product/cache/6dee19cd880ff473cb1c3f34b3f1cafc/p/i/pillow1.png",
+                            "label": null
+                        }
+                    ],
+                    "price_range": {
+                        "minimum_price": {
+                            "regular_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        },
+                        "maximum_price": {
+                            "regular_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "Furnica",
+                    "sku": "Furnica",
+                    "short_description": {
+                        "html": "<p>fgdgf fdfgs ydrtrsasasWQ YRTYTE</p>"
+                    },
+                    "description": {
+                        "html": ""
+                    },
+                    "media_gallery": [
+                        {
+                            "url": "http://martinelli.ginetto.com/media/catalog/product/cache/6dee19cd880ff473cb1c3f34b3f1cafc/s/o/sofa4.jpeg",
+                            "label": null
+                        }
+                    ],
+                    "price_range": {
+                        "minimum_price": {
+                            "regular_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        },
+                        "maximum_price": {
+                            "regular_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "name": "thirdSofa",
+                    "sku": "thirdSofa",
+                    "short_description": {
+                        "html": "<p>ghdgsg yrytgb hgdfg</p>"
+                    },
+                    "description": {
+                        "html": ""
+                    },
+                    "media_gallery": [
+                        {
+                            "url": "http://martinelli.ginetto.com/media/catalog/product/cache/6dee19cd880ff473cb1c3f34b3f1cafc/s/o/sofa3_1.jpg",
+                            "label": null
+                        }
+                    ],
+                    "price_range": {
+                        "minimum_price": {
+                            "regular_price": {
+                                "value": 54,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 54,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        },
+                        "maximum_price": {
+                            "regular_price": {
+                                "value": 54,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 54,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Sofa2",
+                    "sku": "Sofa2",
+                    "short_description": {
+                        "html": "<p>hghcgf hfghdfr hftdrtdr</p>"
+                    },
+                    "description": {
+                        "html": ""
+                    },
+                    "media_gallery": [
+                        {
+                            "url": "http://martinelli.ginetto.com/media/catalog/product/cache/6dee19cd880ff473cb1c3f34b3f1cafc/s/o/sofa1_1.jpeg",
+                            "label": null
+                        }
+                    ],
+                    "price_range": {
+                        "minimum_price": {
+                            "regular_price": {
+                                "value": 300,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 300,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        },
+                        "maximum_price": {
+                            "regular_price": {
+                                "value": 300,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 300,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Martinelli_sofa1",
+                    "sku": "martinelli_sofa1",
+                    "short_description": {
+                        "html": ""
+                    },
+                    "description": {
+                        "html": ""
+                    },
+                    "media_gallery": [
+                        {
+                            "url": "http://martinelli.ginetto.com/media/catalog/product/cache/6dee19cd880ff473cb1c3f34b3f1cafc/s/o/sofa1.jpeg",
+                            "label": null
+                        },
+                        {
+                            "url": "http://martinelli.ginetto.com/media/catalog/product/cache/6dee19cd880ff473cb1c3f34b3f1cafc/s/o/sofa3.jpg",
+                            "label": null
+                        }
+                    ],
+                    "price_range": {
+                        "minimum_price": {
+                            "regular_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        },
+                        "maximum_price": {
+                            "regular_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "final_price": {
+                                "value": 100,
+                                "currency": "USD"
+                            },
+                            "discount": {
+                                "amount_off": 0,
+                                "percent_off": 0
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
+]
