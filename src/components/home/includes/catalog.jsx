@@ -18,7 +18,7 @@ export default function Catalog(props) {
         
             
             <div style={{display: 'flex', flexDirection: 'column', marginTop:10}}>
-               <p className="catalog-title">{title}</p>
+               <p className="catalog-title" style={{marginTop:150}}>{title}</p>
                <div className='catalog-line' />
                 <p className="catalog-desc">{description} </p>
             </div>
