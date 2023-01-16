@@ -107,7 +107,7 @@ export default function Checkout(){
     {
         checkout ? (<Paypal total={total}/>): 
         (
-<button style={{borderRadius:50,backgroundColor:'black',padding:10}} onClick={()=>setChechout(true)}><font color="#fff" size="5">Place Order</font></button>
+<button style={{borderRadius:50,backgroundColor:'black',padding:10}} onClick={()=>setChechout(true)}><font color="#fff" size="5">Process Payment</font></button>
         )
     }
    

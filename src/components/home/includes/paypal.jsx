@@ -16,7 +16,7 @@ export default function Paypal(props) {
                 description: "Martinelli Ginetto payment",
                 amount: {
                   currency_code: "USD",
-                  value: total
+                  value: total+50
                 }
               }
             ]

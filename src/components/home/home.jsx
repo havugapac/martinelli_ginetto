@@ -192,9 +192,11 @@ export default function Home() {
                 <p className='title'>Catalog</p>
             </div>
             <div>
+            <Row>
                 {
-                    catalogs.map((c, i) => <div style={{ marginTop: 10, marginLeft: 10, marginRight: 10 }}><Catalog key={i} image={c.image} description={c.description} title={c.title} /></div>)
+                    catalogs.map((c, i) => <Col xs={12} lg={4} md={4} style={{padding:2}}><div style={{backgroundImage: "url('"+c.image+"')",backgroundRepeat:'no-repeat',backgroundSize:'cover', height:400,}}><Catalog key={i} image={c.image} description={c.description} title={c.title} /> </div></Col>)
                 }
+            </Row>
             </div>
 
             <div style={{ display: 'flex', marginLeft: 10, marginTop: 20 }}>

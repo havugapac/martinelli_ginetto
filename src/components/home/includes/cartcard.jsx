@@ -1,8 +1,6 @@
 
-import  Row  from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import { ReactComponent as Heart } from './../../../media/heartIcon.svg'
-import { ReactComponent as ProdColor } from './../../../media/prodcolor.svg'
 import { ReactComponent as Trash } from './../../../media/trash.svg'
 import { useContext } from 'react'
 import { CartContext } from '../contexts/cart_context'

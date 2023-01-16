@@ -35,7 +35,7 @@ export default function Cart(){
     cart.map((c,i)=><Cartcad key={i} product={c}/>)
 }
 {
-    cart.length==0?<p style={{margin:50}}>Your cart is empty</p>:<></>
+    cart.length===0?<p style={{margin:50}}>Your cart is empty</p>:<></>
 }
 </Row>
 </div>

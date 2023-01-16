@@ -33,7 +33,7 @@ export default function Footer(){
      mobilitare energie professionali e creative in grado di innovare il prodotto a tutti i livelli.</p>
       </div>
       
-      <div style={{paddingTop:25,paddingBottom:25,borderBottom:'2px solid #ccc'}}>
+      <div style={{paddingTop:25,paddingBottom:25,borderBottom:'2px solid #ccc',color:'#fff'}}>
       <Row>
         <Col lg={3} md={3} xs={6}>
         <h3 style={{left:'0%'}}>Settori</h3>
